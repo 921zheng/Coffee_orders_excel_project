@@ -1,4 +1,8 @@
 # Coffee Orders Excel Project
+
+### Recording 
+https://testingcircle-my.sharepoint.com/personal/lzheng_spartaglobal_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Flzheng%5Fspartaglobal%5Fcom%2FDocuments%2FRecordings%2FCoffee%20Sale%2Dexcel%20project%2D20240712%5F165117%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecdbdab29%2Db31f%2D4096%2D82c4%2D70f775308fac
+
 ### Description
 The Coffee Orders Excel Project aims to analyze coffee order data using Microsoft Excel. This project showcases how Excel's powerful tools and functions can be utilized to derive insights from data. The analysis includes data cleaning, visualization, and statistical summaries to understand trends in coffee sales, customer preferences, and operational efficiencies.
 
